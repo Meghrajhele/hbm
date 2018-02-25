@@ -1,4 +1,4 @@
-package com.scp.hbm.Hbm_onetoone_bi;
+package com.scp.hbm.Hbm_onetomany_uni;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

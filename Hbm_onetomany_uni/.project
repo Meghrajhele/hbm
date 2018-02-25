@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Hbm_onetoone_bi</name>
+	<name>Hbm_onetomany_uni</name>
 	<comment></comment>
 	<projects>
 	</projects>
